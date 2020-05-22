@@ -1,4 +1,4 @@
-MOMO AID     idea presentata all'Hackathon " Accessibility 2020 " 
+MOMO AID     idea presentata all'Hackathon " Accessibility Days 2020 " 
 --------
 
 
